@@ -3,3 +3,4 @@ Taipei
 LA
 NY
 SanFran
+Washington 
