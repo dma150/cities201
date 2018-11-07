@@ -1,3 +1,4 @@
-*Favorite City*
-
--Seattle  
+Seattle
+Taipei
+LA
+NY
